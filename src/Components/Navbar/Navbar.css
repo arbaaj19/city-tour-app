@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background: #fff;
+  color: #222;
+  font-family: 'Quattrocento Sans', sans-serif;
+}
+
+.nav-item {
+  margin-left: 20px;
+}
+
+.nav-item:hover {
+  color: royalblue;
+}
+
+.btn {
+  margin: 15px;
+}
+
+.carousel-item {
+  height: 500px;
+}
+/*# sourceMappingURL=Navbar.css.map */
